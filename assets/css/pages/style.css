@@ -703,14 +703,14 @@
 	}
 
 	#slides .slides-container .image1{
-		background-image:url(../images/slide1.jpg);
+		background-image:url({{ site.baseurl }}/{{ 'assets/css/pages/images/images/slide1.jpg);
 	}
 
 	#slides .slides-container .image2{
-		background-image:url(../images/slide2.jpg);
+		background-image:url({{ site.baseurl }}/{{ 'assets/css/pages/images/images/slide2.jpg);
 	}
 	#slides .slides-container .image3{
-		background-image:url(../images/slide3.jpg);
+		background-image:url({{ site.baseurl }}/{{ 'assets/css/pages/images/images/slide3.jpg);
 	}
 
 /* Alternative Images  */
