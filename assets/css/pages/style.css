@@ -1512,7 +1512,7 @@
 		top:20px;
 		position: relative;
 		margin:0 auto;
-		background:url(../images/up-arrow.png) center center no-repeat;
+		background:url(../pages/images/up-arrow.png) center center no-repeat;
 	}
 
 /* History Note Inners */
@@ -1727,7 +1727,7 @@
 		left:50%;
 		margin-top:-21px;
 		margin-left:-21px;
-		background:url(../images/positive.png);
+		background:url(../pages/images/positive.png);
 		opacity: 0;
 		-webkit-transform: scale(0.1);
 		-moz-transform: scale(0.1);
@@ -1809,7 +1809,7 @@
 		height: 17px;
 		top:50%;
 		margin:0 auto;
-		background:url(../images/work-arrow.png) center center no-repeat;
+		background:url(../pages/images/work-arrow.png) center center no-repeat;
 		-webkit-transform: translateY(-50%);
 		-moz-transform: translateY(-50%);
 		transform: translateY(-50%);
@@ -1823,7 +1823,7 @@
 	}
 
 	.work-bottom a.work-link:hover span.arrow{
-		background:url(../images/work-arrow-hover.png) center center no-repeat;
+		background:url(../pages/images/work-arrow-hover.png) center center no-repeat;
 	}
 
 /* isotope styles */
@@ -1975,11 +1975,11 @@
 
 	.project ul.flex-direction-nav li a.flex-prev{
 		left:0;
-		background-image:url(../images/arrow-left.png);
+		background-image:url(../pages/images/arrow-left.png);
 	}
 
 	.project ul.flex-direction-nav li a.flex-next{
-		background-image:url(../images/arrow-right.png);
+		background-image:url(../pages/images/arrow-right.png);
 		right:0;
 		left:auto;
 	}
@@ -2121,7 +2121,7 @@
 		margin:0 5px 0 0;
 		border-radius: 100px;
 		background-color:#494949;
-		background-image:url(../images/positive-s.png);
+		background-image:url(../pages/images/positive-s.png);
 		background-position: center center;
 		background-repeat: no-repeat;
 		-webkit-transition: all 0.3s;
@@ -2409,124 +2409,6 @@
 
 	.video-button:hover{
 		background:rgba(0, 0, 0, 0.2);
-	}
-
-/* Pricing Tables */
-
-	ul.tables{
-		margin:70px auto 0;
-	}
-
-	ul.tables li.pricing-table{
-		padding:0 15px;
-		cursor: default;
-	}
-
-	.table-inner{
-		width:100%;
-		position: relative;
-		border:1px solid #f3f3f3;
-	}
-
-	.pricing-table .price-table-top{
-		width:100%;
-		position: relative;
-		height: auto;
-		padding:0;
-	}
-
-/* Pricing Table Header */
-
-	.pricing-table .price-table-top h3{
-		font-size:22px;
-		z-index: 2;
-		text-align: center;
-		width: 100%;
-		margin-top:15px;
-		text-shadow:1px 1px 3px rgba(0, 0, 0, 0.2);
-	}
-
-/* Pricing Table Image */
-
-	.price-table-top a.price-table-img{
-		display: block;
-		position: relative;
-		width: 100%;
-		height: auto;
-		background:#404040;
-		overflow: hidden;
-		min-height: 132px;
-	}
-
-	.price-table-top a.price-table-img img{
-		width: 100%;
-	}
-
-/* Price Circle */
-
-	.price-table-top .price-circle{
-		display: block;
-		left:50%;
-		width:100px;
-		height: 100px;
-		margin-left:-50px;
-		text-align: center;
-		background: white;
-		border:1px solid #f2f2f2;
-		border-radius: 200px;
-		bottom:0;
-		box-shadow: -3px 3px 5px  #dcdcdc inset;
-		-webkit-transform: translateY(50%);
-		-moz-transform: translateY(50%);
-		transform: translateY(50%);
-	}
-
-	.price-table-top .price-circle p.price{
-		margin-top:28px;
-		margin-bottom:0;
-		padding-bottom:0;
-		line-height: 30px;
-		-webkit-transition: all 0.3s;
-		-moz-transition: all 0.3s;
-		transition: all 0.3s;
-	}
-
-	.price-table-top .price-circle p.timely{
-		margin-top:0;
-		padding-top:0;
-		font-size:12px;
-		color:#a9a9a9;
-		-webkit-transition: all 0.3s;
-		-moz-transition: all 0.3s;
-		transition: all 0.3s;
-	}
-
-/* Price Plans */
-
-	.table-inner ul.price-plans{
-		margin:50px 0 0;
-		padding:25px 0 0;
-		color:#727272;
-	}
-
-	.table-inner ul.price-plans li.price-plan{
-		padding:15px;
-		border-bottom:1px solid #f3f3f3;
-	}
-
-	.table-inner ul.price-plans li.price-plan:first-child{
-		border-top:1px solid #f3f3f3;
-	}
-
-	.table-inner a.price-buy-now{
-		padding:10px 15px;
-		background:#404040;
-		display: block;
-		width:120px;
-		margin:20px auto;
-		-webkit-transition: all 0.3s;
-		-moz-transition: all 0.3s;
-		transition: all 0.3s;
 	}
 
 /* Active Table */
