@@ -1092,7 +1092,7 @@
 	#services{
 		background:url(http://cdn.nanxiongnandi.com/bing/LondonTrainStation_EN-US10001299718_1366x768.jpg) no-repeat center center fixed;
 		background-size: cover;
-		padding:55px 0;
+		/* padding:55px 0; */
 		overflow: hidden;
 	}
 
