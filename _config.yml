@@ -1,5 +1,14 @@
-title: Portfolio - Angela Y Smithers
+title: My Portfolio of UX and Design
 description: Collection of student and freelance works
 show_downloads: false
-google_analytics:
 theme: jekyll-theme-cayman
+baseurl: "/il-mio-portfolio" # the subpath of the site
+url: ""
+
+#Github Repo
+repo_name: il-mio-portfolio
+branch: master
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
