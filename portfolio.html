@@ -4,8 +4,33 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
+	<!-- Navigation -->
+	<section id="navigation" class="white-nav">
+		<!-- Navigation Inner -->
+		<div class="nav-inner">
+			<!-- Site Logo -->
+			<div class="site-logo">
+				<a href="{{ site.baseurl }}" class="scroll logo">
+					<!-- My Logo -->
+					<img src="images/logo-icon.png" alt="bing cherry in a thought bubble logo" />
+				</a>
+			</div><!-- End Site Logo -->
+			<a class="mini-nav-button dark"><i class="fa fa-bars"></i></a>
   
-    {% include navigation.html %}
+			<!-- Navigation Menu -->
+			<div class="nav-menu">
+				<ul class="nav uppercase condensed bold">
+					<li><a href="{{ site.baseurl }}" class="scroll">home</a></li>
+					<li><a href="{{ site.baseurl }}/#about" class="scroll">profile</a></li>
+					<li><a href="{{ site.baseurl }}/#services" class="scroll">skills</a></li>
+					<li><a href="{{ site.baseurl }}/#features" class="scroll">web superpowers</a></li>
+					<li><a href="#" class="scroll">portfolio</a></li>
+					<li><a href="{{ site.baseurl }}/pastime" class="scroll">muses</a></li>
+					<li><a href="{{ site.baseurl }}/contact" class="scroll">contact</a></li>
+				</ul>
+			</div><!-- End Navigation Menu -->
+		</div><!-- End Navigation Inner -->
+	</section><!-- End Navigation Section -->
 
 	<!-- Portfolio -->
 	<div id="portfolio" class="container">
