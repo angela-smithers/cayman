@@ -16,4 +16,4 @@ permalink: /graphic_tees/
 ![](https://angela-smithers.github.io/il-mio-portfolio/assets/files/01-T-Shirt-Mockup-Black.jpg)
 
 ### Atlanta T
-![](https://angela-smithers.github.io/il-mio-portfolio/assets/files/02-T-Shirt-Mockup-Atlanta.jpg)
+![](https://angela-smithers.github.io/il-mio-portfolio/assets/files/02-T-Shirt-Mockup-Atl.jpg)
