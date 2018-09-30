@@ -21,9 +21,9 @@
 			default_width: 500,
 			default_height: 344,
 			counter_separator_label: '/', /* The separator for the gallery counter 1 "of" 2 */
-			theme: 'pp_default', /* light_rounded / dark_rounded / light_square / dark_square / facebook */
+			theme: 'pp_dark_square', /* default / light_rounded / dark_rounded / light_square / dark_square / facebook */
 			horizontal_padding: 20, /* The padding on each side of the picture */
-			hideflash: false, /* Hides all the flash object on a page, set to TRUE if flash appears over prettyPhoto */
+			hideflash: true, /* Hides all the flash object on a page, set to TRUE if flash appears over prettyPhoto */
 			wmode: 'opaque', /* Set the flash wmode attribute */
 			autoplay: true, /* Automatically start videos: True/False */
 			modal: false, /* If set to true, only the close button will close the window */
@@ -60,7 +60,6 @@
 												<a href="#" class="pp_arrow_next">Next</a> \
 											</div> \
 											<p class="pp_description"></p> \
-											<div class="pp_social">{pp_social}</div> \
 											<a class="pp_close" href="#">Close</a> \
 										</div> \
 									</div> \
