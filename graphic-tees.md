@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Graphics | T-shirts
-permalink: /graphic_tees/
+permalink: /graphic-tees
 ---
 
 # [](#header-1)T-shirt Designs
