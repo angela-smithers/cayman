@@ -28,7 +28,7 @@ Flyup and flyover
 
 ## [](#header-2)My Story/Goal
 
-As tempting foods come flying at his majesty, you, his loyal subject fight the fatty foods with your weapon of choice. A frying pan. To accumulate points hit only the unhealthy sweets that appear.
+As tempting foods come flying at his majesty, you, his loyal subject fight the fatty foods with your weapon of choice. A frying pan. To accumulate points, hit only the unhealthy sweets that appear.
 
 | Character 1: prince        | Character 2: princess          | Character 3: loyal subject |
 |:-------------|:------------------|:------|
