@@ -4,11 +4,11 @@
 
 *Cayman is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/cayman), or even [use it today](#usage).*
 
-*Oxygen is a 100% responsive and parallax one page template. [Oxygen](https://themeforest.net/item/oxygen-one-page-parallax-theme/full_screen_preview/7039638?_ga=2.209022551.490281559.1538920018-580617066.1538920018) is powered with Twitter Bootstrap 3.0 Framework. It is clean and professional theme for agencies or creative studios. It can be customized easily to suit your wishes.*
+*Oxygen is a 100% responsive and parallax one page template. [Oxygen](https://themeforest.net/item/oxygen-one-page-parallax-theme/full_screen_preview/7039638?_ga=2.209022551.490281559.1538920018-580617066.1538920018) is a paid theme powered with Twitter Bootstrap 3.0 Framework. It is clean and professional theme for agencies or creative studios. It is not free, but can be customized easily to suit your wishes.*
 
 ![Thumbnail of Cayman](thumbnail.png) ![Thumbnail of Oxygen HTML](https://s3.envato.com/files/139268962/01_preview.__large_preview.png)
 
-## Usage
+## Cayman Usage (only)
 
 To use the Cayman theme:
 
