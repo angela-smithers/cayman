@@ -16,7 +16,7 @@ The project requirement was to build a "hit/collision" game using Adobe Flash wi
 Inspired by the Korean drama 'Rooftop Prince' my game was set in a Josean-period fantasy scene created by Xu Chao Yuan.
 ### Large image
 
-![](https://angela-smithers.github.io/il-mio-portfolio/assets/files/city_scene_by_chaoyuanxu-d4fvguw.jpg)
+![](https://angela-smithers.github.io/il-mio-portfolio/assets/files/city_scene_by_chaoyuanxu-small.jpg)
 
 ## [](#header-2)My UI
 
