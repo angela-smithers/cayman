@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Graphics | T-shirts
 permalink: /graphic-tees
 ---
