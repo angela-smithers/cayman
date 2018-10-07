@@ -20,6 +20,12 @@ Inspired by the Korean drama 'Rooftop Prince', my game was set in a Josean-perio
 
 ## [](#header-2)My UI
 
+### Buttons
+Flyup and flyover
+
+### Game Layout
+![](https://angela-smithers.github.io/il-mio-portfolio/assets/files/01-Game-UI-Mockup-Black.jpg)
+
 ## [](#header-2)My Story/Goal
 
 As tempting foods come flying at his majesty, you, his loyal subject fight the fatty foods with your weapon of choice. A frying pan. To accumulate points hit only the unhealthy sweets that appear.
