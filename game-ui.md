@@ -36,4 +36,4 @@ As tempting foods come flying at his majesty, you, his loyal subject fight the f
 
 ### [](#header-3)The Outcome
 
-![the game](https://drive.google.com/open?id=1WWuLee0MGwdOrRdvos2wRBOEfDQJFrnE)
+[The game](https://drive.google.com/open?id=1WWuLee0MGwdOrRdvos2wRBOEfDQJFrnE)
