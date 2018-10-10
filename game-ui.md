@@ -23,12 +23,12 @@ Inspired by the Korean drama 'Rooftop Prince', my game was set in a Josean-era f
 ### Inspiration
 ![](https://angela-smithers.github.io/il-mio-portfolio/assets/files/button-ui.png)
 ### Buttons
-Final result: 
+Final result ... 
 
 ### Game Layout
 ![](https://angela-smithers.github.io/il-mio-portfolio/assets/files/01-Game-UI-Mockup-Black.jpg)
 
-#### Other Ideas
+#### Other Iteration Mockups
 
 ## [](#header-2)My Story/Goal
 
