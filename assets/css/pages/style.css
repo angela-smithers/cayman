@@ -1899,6 +1899,10 @@
 		top:0;
 	}
 
+	.expander-inner > p > img {
+		max-width: 100%;
+}
+
 	.cls-btn{
 		width:100%;
 		padding: 0;
