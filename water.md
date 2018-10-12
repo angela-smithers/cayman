@@ -10,14 +10,14 @@ Inspired by the Smithsonian Women's History Initiative and their goal to reach t
 
 ## [](#header-2)Goal
 
-To reach thousands of kids nationwide who may or may not have internet access to educate them about the very intold story of women in history by distributing water with labels that will educate, enlighten and inform.
+To reach thousands of kids nationwide, who may or may not have internet access, to educate them about the very intold story of women in history by distributing water with labels that will educate, enlighten and inform.
 
 ## [](#header-2)Design
 
-A bold, simple high-contrast design
+A bold, simple, high-contrast design
 
 Easy to read ... available in different languages
 
 ### Large image
 
-![](https://angela-smithers.github.io/il-mio-portfolio/assets/files/5-Water-Bottle-Designs.png)
+![](https://angela-smithers.github.io/il-mio-portfolio/assets/files/5-Water-Bottle-Designs.png)[image of 5 water bottles]
