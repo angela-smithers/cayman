@@ -10,7 +10,7 @@ Inspired by the Smithsonian Women's History Initiative and their goal to reach t
 
 ## [](#header-2)Goal
 
-To reach thousands of kids nationwide, who may or may not have internet access, to educate them about the very untold story of women in history by distributing water with labels that will educate, enlighten and inform.
+To reach thousands of kids nationwide, who may or may not have internet access, to educate them about the very untold story of women in history by distributing water in public schools with labels that will educate, enlighten and inform.
 
 ## [](#header-2)Design
 
