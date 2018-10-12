@@ -18,6 +18,9 @@ A bold, simple, high-contrast design
 
 Easy to read ... available in different languages
 
+Short, digestible message
+
 ### Large image
 
-![](https://angela-smithers.github.io/il-mio-portfolio/assets/files/5-Water-Bottle-Designs.png)[image of 5 water bottles]
+![image of 5 water bottles](https://angela-smithers.github.io/il-mio-portfolio/assets/files/5-Water-Bottle-Designs.png)
+
