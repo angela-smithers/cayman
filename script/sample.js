@@ -74,3 +74,15 @@ sampleApp.prototype.getChart = function () {
     // render chart gadget
     $('#chart').gadget(data);
 };
+
+
+var sampleApp = function () {  
+ 
+    // set client id
+    Knoema.Helpers.clientId = 'VWYp7V1QmWqSCA';
+     
+    //start application
+    this.getCountries();
+    this.getProducts();
+    this.bindEvents();
+};
