@@ -1896,11 +1896,13 @@
 
 	.expander-inner{
 		position: relative;
+		text-align: initial;
 		top:0;
 	}
 
 	.expander-inner > p > img {
 		max-width: 100%;
+		text-align: center;
 }
 
 	.cls-btn{
