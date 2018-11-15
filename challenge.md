@@ -28,6 +28,7 @@ Since this was for a government site, I wanted to take advantage of the good, op
 
 ### [](header-3)Aftermath
 Two days after the challenge was over, my mind was still tingling with ideas. So the final mockups are really cheating the challenge:
+
 ![Start or Landing Page](https://angela-smithers.github.io/il-mio-portfolio/assets/files/#)
 
 ![Search By School](https://angela-smithers.github.io/il-mio-portfolio/assets/files/#)
