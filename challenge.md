@@ -9,7 +9,7 @@ permalink: /challenge-ux/
 
 # [](#header-1)School Data Design Challenge
 
-The design challenge details can be found at ![DigitalGov.gov](https://digital.gov/2018/09/26/office-educational-technology-hold-design-challenge-supporting-data-reporting-requirements/).
+The design challenge details can be found at [DigitalGov.gov](https://digital.gov/2018/09/26/office-educational-technology-hold-design-challenge-supporting-data-reporting-requirements/).
 
 ## [](#header-2)My approach
 I analyzed a number of non-English inforgraphics for both print and web in order to determine which ones felt friendly and why.
@@ -20,7 +20,7 @@ In order to project a friendly feel, I used secondary and tertiary colors. I tes
 
 ## [](#header-2)UI Components
 
-Since this was for a government site, I wanted to take advantage of the good, open-source design components provided by ![](Standards.USA.gov) because they have already proven to be critical time-savers.
+Since this was for a government site, I wanted to take advantage of the good, open-source design components provided by [the US Web Design System](https://Standards.USA.gov) because they have already proven to be critical time-savers.
 
 ## [](header-2)The Process
 
