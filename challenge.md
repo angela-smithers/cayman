@@ -29,16 +29,16 @@ Since this was for a government site, I wanted to take advantage of the good, op
 ### [](header-3)Aftermath
 Two days after the challenge was over, my mind was still tingling with ideas. So the final mockups are really cheating the challenge:
 
-![Start or Landing Page](https://angela-smithers.github.io/il-mio-portfolio/assets/files/#)
+![Start or Landing Page](https://angela-smithers.github.io/il-mio-portfolio/assets/files/start.png)
 
-![Search By School](https://angela-smithers.github.io/il-mio-portfolio/assets/files/#)
+![Search By School](https://angela-smithers.github.io/il-mio-portfolio/assets/files/start-1-01.png)
 
-![Search By Expense Type](https://angela-smithers.github.io/il-mio-portfolio/assets/files/#)
+![Search By Expense Type](https://angela-smithers.github.io/il-mio-portfolio/assets/files/start-2.png)
 
-![Data by school with chart aggregation](https://angela-smithers.github.io/il-mio-portfolio/assets/files/#)
+![Data by school with chart aggregation](https://angela-smithers.github.io/il-mio-portfolio/assets/files/by-school-chart-01.png)
 
-![Data by school with table](https://angela-smithers.github.io/il-mio-portfolio/assets/files/#)
+![Data by school with table](https://angela-smithers.github.io/il-mio-portfolio/assets/files/by-school-table.png)
 
-![Data by school with simplification](https://angela-smithers.github.io/il-mio-portfolio/assets/files/#)
+![Data by school with simplification](https://angela-smithers.github.io/il-mio-portfolio/assets/files/by-school-simplified-01.png)
 
-![Data by expense type with comparison](https://angela-smithers.github.io/il-mio-portfolio/assets/files/#)
+![Data by expense type with comparison](https://angela-smithers.github.io/il-mio-portfolio/assets/files/by-expense-01.png)
