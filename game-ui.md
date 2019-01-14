@@ -32,8 +32,9 @@ The color scheme was taken directly from the game scene design. For colors that 
 ### Buttons
 
 
-#### Other Iteration Mockups
+#### Other Mockups
 ![](https://angela-smithers.github.io/il-mio-portfolio/assets/files/game-ui-mockup-01.png)
+![](https://angela-smithers.github.io/il-mio-portfolio/assets/files/new-board-02.png)
 
 ## [](#header-2)My Story/Goal
 
@@ -45,4 +46,5 @@ As tempting foods come flying at his majesty, you, his loyal subject fight the f
 
 ### [](#header-3)The Outcome
 
+A fully-functioning, single-player flash game:
 [The game](https://drive.google.com/open?id=1WWuLee0MGwdOrRdvos2wRBOEfDQJFrnE)
