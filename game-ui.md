@@ -27,9 +27,10 @@ Inspired by the Korean drama 'Rooftop Prince', my game was set in a Josean-era f
 ![](https://angela-smithers.github.io/il-mio-portfolio/assets/files/game-ui-wireframe.png)
 
 ### Colors
+The color scheme was taken directly from the game scene design. For colors that were a little dull, more saturation was added to maintain the fun, energetic feel.
 
 ### Buttons
-Final result ... 
+
 
 #### Other Iteration Mockups
 ![](https://angela-smithers.github.io/il-mio-portfolio/assets/files/game-ui-mockup-01.png)
