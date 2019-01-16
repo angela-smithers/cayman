@@ -5,9 +5,10 @@ permalink: /information-design
 ---
 
 
-Expert-created short lessons on parenting for dog-owners and potential dog owners. Videos, quizzes and links to resources all for free.
-
 # [](#header-1)Information Design (UI)
+
+
+Ficticious website for expert-created short lessons on parenting for dog-owners and potential dog owners. Videos, quizzes and links to resources all for free.
 
 ## [](#header-2)Personas
 
