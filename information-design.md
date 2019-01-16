@@ -20,9 +20,9 @@ Ficticious website for expert-created short lessons on parenting for dog-owners 
 ![](https://angela-smithers.github.io/il-mio-portfolio/assets/files/style-guide-01.png)
 
 
-## [](#header-2)Header & Footer
+## [](#header-2)Site Map
 
-![](https://angela-smithers.github.io/il-mio-portfolio/assets/files/#)
+![](https://angela-smithers.github.io/il-mio-portfolio/assets/files/arch-map.jpg)
 
 ## [](#header-2)Mockups
 
