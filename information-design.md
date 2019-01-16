@@ -1,7 +1,7 @@
 ---
 layout: default
 title: UI + Site Architecture | Puppy Parenting
-permalink: /information-design
+permalink: /information-design/
 ---
 
 
