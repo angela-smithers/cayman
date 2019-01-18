@@ -34,6 +34,7 @@ The color scheme was taken directly from the game scene design. For colors that 
 
 #### Other Mockups
 ![](https://angela-smithers.github.io/il-mio-portfolio/assets/files/game-ui-mockup-01.png)
+![](https://angela-smithers.github.io/il-mio-portfolio/assets/files/new-board-01.png)
 ![](https://angela-smithers.github.io/il-mio-portfolio/assets/files/new-board-02.png)
 
 ## [](#header-2)My Story/Goal
