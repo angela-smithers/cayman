@@ -14,4 +14,10 @@ Imagine my mind's deep paralysis. Who would have thought that infinite choice wa
 ## [](#header-2) Characters 2019 vs 2014
 | Girl 1: 2019        | Girl 1: 2014          |
 |:--------------------|:------------------|
-| ![](https://angela-smithers.github.io/il-mio-portfolio/assets/files/girl-1.jpg) | ![](https://angela-smithers.github.io/il-mio-portfolio/assets/files/#) |
+| ![](https://angela-smithers.github.io/il-mio-portfolio/assets/files/girl-1.jpg) | ![](https://angela-smithers.github.io/il-mio-portfolio/assets/files/girl-1.png) |
+
+So I will explain this new style. 
+
+Can you recognize the elements that make up this character? The character is made of characters. Text. Letters and symbols from a single font family but with different weights.
+
+Not as easy a I had imagined; as least, not as quick as I had imagined.
