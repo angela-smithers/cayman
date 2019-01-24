@@ -14,7 +14,7 @@ Imagine my mind's deep paralysis. Who would have thought that infinite choice wa
 ## [](#header-2) Characters 2019 vs 2014
 | Girl 1: 2019        | Girl 1: 2014          |
 |:--------------------|:------------------|
-| ![](https://angela-smithers.github.io/il-mio-portfolio/assets/files/girl-1.jpg) | ![](https://angela-smithers.github.io/il-mio-portfolio/assets/files/girl-1.png) |
+| ![](https://angela-smithers.github.io/il-mio-portfolio/assets/files/girl-1.jpg) | ![](https://angela-smithers.github.io/il-mio-portfolio/assets/files/#) |
 
 So I will explain this new style. 
 
